@@ -106,7 +106,7 @@ p{
         background-position: top center;
     }
     .image-cover{
-        margin: 40px auto 20px;
+        margin: 40px auto 0;
         display: grid;
         place-items: center;
     }
@@ -124,16 +124,16 @@ p{
     .quote{
         width:90%;
         text-align: center;
-        margin: 0 auto;
+        margin: -20px auto;
     }
     .btn-container{
         margin:0 auto;
-        bottom:40px;
+        bottom:20px;
     }
     .quote-icon{
         position: relative;
         margin-left: 40%;
-        top:50px;
+        top:20px;
     }
     .curve-icon{
         height: 130px;
